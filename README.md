@@ -1,6 +1,6 @@
 # Hola! I am Steve
 
-I'm an Electronics Insdustrial Engineer with 20+ years of experience in Aerospace Quality, Hardware Testing, Manufacturing Engineering and working on becoming a Web Developer.
+I'm an Electronics Industrial Engineer with 20+ years of experience in Aerospace Quality, Hardware Testing, Manufacturing Engineering and working on becoming a Web Developer.
 
 Take the suit away and what am I? husband, father, soccer player, car mechanic, gamer and huge geek!
 
